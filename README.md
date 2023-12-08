@@ -35,7 +35,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/LG5b5ZG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In osTicket, you can configure roles, departments, and teams to streamline your support system. Navigate to the Admin Panel, then go to Agents and select Roles to set up roles such as "Supreme Admin." Next, configure departments under Admin Panel -> Agents -> Departments, specifying roles like "System Administrators." Finally, organize teams by accessing Admin Panel -> Agents -> Teams, and define teams such as "Level I Support" and "Level II Support." These configurations help define access levels and responsibilities within osTicket, optimizing your support structure for efficient workflow management.
 </p>
 <br />
 
@@ -43,7 +43,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/IA3mMDz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the osTicket Admin Panel, go to Agents and you can configure agents on what access that they have and permissions. 
 </p>
 <br />
 
@@ -57,6 +57,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/kqYrUKN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In osTicket, configure agents (like Jane and John) in Admin Panel -> Agents, set up customer accounts (e.g., Karen, Ken) in Agent Panel -> Users, define SLAs (e.g., Sev-A, Sev-B, Sev-C) in Admin Panel -> Manage, and organize help topics (e.g., Business Critical Outage, Personal Computer Issues) in Admin Panel -> Manage for efficient support system management.
 </p>
 <br />
